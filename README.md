@@ -16,7 +16,7 @@ LLM RAG Example
   - pip install llama-cpp-python
   - pip install umap-learn pandas scikit-learn matplotlib plotly nbformat
 
-- this includes an embeddings model (converts text to numbers)
-  - you will want to download an LLM model from https://huggingface.co/models?search=gguf
+- this project includes an embeddings model (converts text to numbers)
+  - but you will also want to download an LLM model of your choice from https://huggingface.co/models?search=gguf
   - some common ones to look for are Google's Gemma or Meta's Llama
   - download the .gguf model file to the models folder and make sure to reference that file in the code where it loads the LLM model
