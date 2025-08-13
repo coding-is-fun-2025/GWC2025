@@ -33,10 +33,10 @@ Girls Who Code Industry Immersion Day August 12th 2025<br>
   - download the .gguf model file to the models folder and make sure to reference that file in the code where it loads the LLM model
  
 - after setup, you can begin running the notebooks:
-  - open part1_nb_add_docs_to_vectordb.ipynb in Visual Studio Code
+  - open **part1_nb_add_docs_to_vectordb.ipynb** in Visual Studio Code
   - continue with the instructions and comments within that notebook
-  - then try part2_nb_visualize_vectordb.ipynb
-  - then try part3_nb_ask_llm.ipynb
+  - then try **part2_nb_visualize_vectordb.ipynb**
+  - then try **part3_nb_ask_llm.ipynb**
   - note: once you've done part1 once, 
     - you dont need to run part1 again unless you need to add new documents
     - you can skip immediately to part3 and just ask it new questions
