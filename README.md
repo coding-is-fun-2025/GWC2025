@@ -1,5 +1,7 @@
 # GWC2025
-LLM RAG Example
+Girls Who Code Industry Immersion Day August 12th 2025<br>
+
+LLM RAG Example<br>
 
 
 - Step 0. install dependencies, (execute only once)
