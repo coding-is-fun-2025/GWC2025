@@ -1,7 +1,14 @@
 # GWC2025
 Girls Who Code Industry Immersion Day August 12th 2025<br>
 
-LLM RAG Example<br>
+
+- *Build your own offline AI that reads your documents and answers your questions*
+- Concepts
+  - Text Embeddings
+  - Vector Databases
+  - Hierarchial Navigable Small Worlds
+  - Retrieval Augmented Generation
+  - Large Language Models
 
 
 - Step 0. install dependencies, (execute only once)
