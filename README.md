@@ -20,3 +20,16 @@ LLM RAG Example
   - but you will also want to download an LLM model of your choice from https://huggingface.co/models?search=gguf
   - some common ones to look for are Google's Gemma or Meta's Llama
   - download the .gguf model file to the models folder and make sure to reference that file in the code where it loads the LLM model
+ 
+- after setup, you can begin running the notebooks:
+  - open part1_nb_add_docs_to_vectordb.ipynb
+  - continue with the instructions and comments within that notebook
+  - then try part2_nb_visualize_vectordb.ipynb
+  - then try part3_nb_ask_llm.ipynb
+  - note: once you've done part1 once, 
+    - you dont need to run part1 again unless you need to add new documents
+    - you can skip immediately to part3 and just ask it new questions
+    - keep in sync the names of the folders between all the different notebooks
+      - i.e. if you change the name of a folder in part 1, make sure that is reflected elsewhere
+
+- have fun and keep building!
