@@ -6,7 +6,7 @@ Girls Who Code Industry Immersion Day August 12th 2025<br>
 - Concepts
   - Text Embeddings
   - Vector Databases
-  - Hierarchial Navigable Small Worlds
+  - Hierarchical Navigable Small Worlds
   - Retrieval Augmented Generation
   - Large Language Models
  
