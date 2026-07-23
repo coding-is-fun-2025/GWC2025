@@ -1,4 +1,4 @@
-# GWC2025
+# GWC - Building AI
 Girls Who Code Industry Immersion Day <br>
 
 
