@@ -1,5 +1,5 @@
 # GWC2025
-Girls Who Code Industry Immersion Day August 12th 2025<br>
+Girls Who Code Industry Immersion Day <br>
 
 
 - *Build your own offline AI that reads your documents and answers your questions*
